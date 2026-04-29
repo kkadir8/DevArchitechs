@@ -1,10 +1,10 @@
 # Sprint 1 Planning — Toplantı Notları
 
-**Tarih:** [Bu haftanın tarihi]
+**Tarih:** [27/04/2026]
 **Süre:** 1 saat
 **Katılımcılar:** Tüm DevArchitechs ekibi
 **Toplantı Yöneticisi:** Yunus Emre Edizer (Scrum Master)
-**Format:** Online (Discord)
+**Format:** Online (Google Meets)
 
 ---
 
