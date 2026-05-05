@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXG7HYWoMK4=",
+  "success": true,
+  "projectFilePath": "/Users/pc003/Kadir/smart-scheduler/SmartScheduler.API/SmartScheduler.API.csproj",
+  "expectedPackageFiles": [
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/swashbuckle.aspnetcore.swagger/10.1.7/swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/swashbuckle.aspnetcore.swaggergen/10.1.7/swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/swashbuckle.aspnetcore.swaggerui/10.1.7/swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+    "/var/folders/b4/b3jvyd2x039b9046ljwcw1rh0000gn/T/cursor-sandbox-cache/c7a61663bd458bdb87da5b5aee4e02ca/nuget/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
