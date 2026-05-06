@@ -10,6 +10,7 @@ smartscheduler-frontend/.env.local
 # General
 .DS_Store
 *.user
+.claude/
 
 # Docker
 .env
