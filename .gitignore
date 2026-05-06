@@ -1,0 +1,12 @@
+# Backend
+SmartScheduler.API/bin/
+SmartScheduler.API/obj/
+
+# Frontend
+smartscheduler-frontend/node_modules/
+smartscheduler-frontend/.next/
+smartscheduler-frontend/.env.local
+
+# General
+.DS_Store
+*.user
