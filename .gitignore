@@ -10,3 +10,10 @@ smartscheduler-frontend/.env.local
 # General
 .DS_Store
 *.user
+
+# Docker
+.env
+docker-compose.local.yml
+
+# EF Core local migration bundles
+*.efbundle
