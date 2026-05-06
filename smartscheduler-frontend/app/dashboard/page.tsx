@@ -37,9 +37,9 @@ const sprintTasks = [
   { text: "Next.js 14 frontend kurulumu", done: true },
   { text: "Dashboard UI geliştirme", done: true },
   { text: "API entegrasyonu (frontend)", done: true },
-  { text: "PostgreSQL şema tasarımı", done: false },
-  { text: "Entity Framework Core setup", done: false },
-  { text: "Unit test altyapısı", done: false },
+  { text: "PostgreSQL şema tasarımı", done: true },
+  { text: "Entity Framework Core setup", done: true },
+  { text: "Unit test altyapısı", done: true },
 ];
 
 const activities = [

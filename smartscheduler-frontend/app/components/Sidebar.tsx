@@ -117,11 +117,11 @@ export default function Sidebar() {
             <span className="text-[11px] font-semibold text-white/70">Sprint 1 Aktif</span>
           </div>
           <div className="h-1.5 bg-white/[0.06] rounded-full overflow-hidden">
-            <div className="progress-bar h-full" style={{ width: "72%" }} />
+            <div className="progress-bar h-full" style={{ width: "100%" }} />
           </div>
           <div className="flex justify-between mt-1.5">
             <span className="text-[10px] text-white/30">İlerleme</span>
-            <span className="text-[10px] text-accent font-medium">72%</span>
+            <span className="text-[10px] text-accent font-medium">100%</span>
           </div>
         </div>
       )}
